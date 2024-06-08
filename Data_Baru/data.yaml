@@ -1,0 +1,4 @@
+train: ../train/images
+
+nc: 1
+names: ['L']
